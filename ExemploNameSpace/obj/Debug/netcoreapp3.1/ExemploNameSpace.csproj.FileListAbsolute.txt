@@ -1,0 +1,4 @@
+C:\Users\adm\source\repos\ExemploNameSpace\obj\Debug\netcoreapp3.1\ExemploNameSpace.csprojAssemblyReference.cache
+C:\Users\adm\source\repos\ExemploNameSpace\obj\Debug\netcoreapp3.1\ExemploNameSpace.AssemblyInfoInputs.cache
+C:\Users\adm\source\repos\ExemploNameSpace\obj\Debug\netcoreapp3.1\ExemploNameSpace.AssemblyInfo.cs
+C:\Users\adm\source\repos\ExemploNameSpace\obj\Debug\netcoreapp3.1\ExemploNameSpace.csproj.CoreCompileInputs.cache

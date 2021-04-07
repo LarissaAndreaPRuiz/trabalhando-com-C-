@@ -1,0 +1,13 @@
+C:\Users\adm\source\repos\ExemploClasses\obj\Debug\netcoreapp3.1\ExemploClasses.csprojAssemblyReference.cache
+C:\Users\adm\source\repos\ExemploClasses\obj\Debug\netcoreapp3.1\ExemploClasses.AssemblyInfoInputs.cache
+C:\Users\adm\source\repos\ExemploClasses\obj\Debug\netcoreapp3.1\ExemploClasses.AssemblyInfo.cs
+C:\Users\adm\source\repos\ExemploClasses\obj\Debug\netcoreapp3.1\ExemploClasses.csproj.CoreCompileInputs.cache
+C:\Users\adm\source\repos\ExemploClasses\bin\Debug\netcoreapp3.1\ExemploClasses.exe
+C:\Users\adm\source\repos\ExemploClasses\bin\Debug\netcoreapp3.1\ExemploClasses.deps.json
+C:\Users\adm\source\repos\ExemploClasses\bin\Debug\netcoreapp3.1\ExemploClasses.runtimeconfig.json
+C:\Users\adm\source\repos\ExemploClasses\bin\Debug\netcoreapp3.1\ExemploClasses.runtimeconfig.dev.json
+C:\Users\adm\source\repos\ExemploClasses\bin\Debug\netcoreapp3.1\ExemploClasses.dll
+C:\Users\adm\source\repos\ExemploClasses\bin\Debug\netcoreapp3.1\ExemploClasses.pdb
+C:\Users\adm\source\repos\ExemploClasses\obj\Debug\netcoreapp3.1\ExemploClasses.dll
+C:\Users\adm\source\repos\ExemploClasses\obj\Debug\netcoreapp3.1\ExemploClasses.pdb
+C:\Users\adm\source\repos\ExemploClasses\obj\Debug\netcoreapp3.1\ExemploClasses.genruntimeconfig.cache

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExemploNameSpace", "ExemploNameSpace.csproj", "{3955F1BC-B094-4D63-ADC3-DC665D79E508}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dados", "..\Dados\Dados.csproj", "{0B307046-4E33-44A7-A0CB-6DB9F1544718}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3955F1BC-B094-4D63-ADC3-DC665D79E508}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3955F1BC-B094-4D63-ADC3-DC665D79E508}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3955F1BC-B094-4D63-ADC3-DC665D79E508}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3955F1BC-B094-4D63-ADC3-DC665D79E508}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B307046-4E33-44A7-A0CB-6DB9F1544718}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B307046-4E33-44A7-A0CB-6DB9F1544718}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B307046-4E33-44A7-A0CB-6DB9F1544718}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B307046-4E33-44A7-A0CB-6DB9F1544718}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ADDBC27E-F47D-4B66-8644-E40E5596664B}
+	EndGlobalSection
+EndGlobal

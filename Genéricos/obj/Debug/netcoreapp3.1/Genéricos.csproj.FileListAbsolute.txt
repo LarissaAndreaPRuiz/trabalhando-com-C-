@@ -1,0 +1,13 @@
+C:\Users\adm\source\repos\Genéricos\obj\Debug\netcoreapp3.1\Genéricos.csprojAssemblyReference.cache
+C:\Users\adm\source\repos\Genéricos\obj\Debug\netcoreapp3.1\Genéricos.AssemblyInfoInputs.cache
+C:\Users\adm\source\repos\Genéricos\obj\Debug\netcoreapp3.1\Genéricos.AssemblyInfo.cs
+C:\Users\adm\source\repos\Genéricos\obj\Debug\netcoreapp3.1\Genéricos.csproj.CoreCompileInputs.cache
+C:\Users\adm\source\repos\Genéricos\bin\Debug\netcoreapp3.1\Genéricos.exe
+C:\Users\adm\source\repos\Genéricos\bin\Debug\netcoreapp3.1\Genéricos.deps.json
+C:\Users\adm\source\repos\Genéricos\bin\Debug\netcoreapp3.1\Genéricos.runtimeconfig.json
+C:\Users\adm\source\repos\Genéricos\bin\Debug\netcoreapp3.1\Genéricos.runtimeconfig.dev.json
+C:\Users\adm\source\repos\Genéricos\bin\Debug\netcoreapp3.1\Genéricos.dll
+C:\Users\adm\source\repos\Genéricos\bin\Debug\netcoreapp3.1\Genéricos.pdb
+C:\Users\adm\source\repos\Genéricos\obj\Debug\netcoreapp3.1\Genéricos.dll
+C:\Users\adm\source\repos\Genéricos\obj\Debug\netcoreapp3.1\Genéricos.pdb
+C:\Users\adm\source\repos\Genéricos\obj\Debug\netcoreapp3.1\Genéricos.genruntimeconfig.cache
